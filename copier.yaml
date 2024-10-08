@@ -1,0 +1,11 @@
+project_name:
+    type: str
+username:
+    type: str
+    default: ""
+useremail:
+    type: str
+    default: ""
+description:
+    type: str
+    default: ""
