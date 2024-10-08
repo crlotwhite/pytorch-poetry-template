@@ -3,7 +3,7 @@
 ## Usage
 
 ```bash
-copier copy --data-file=./input.yaml https://github.com/crlotwhite/pytorch-poetry-template.git .
+copier copy https://github.com/crlotwhite/pytorch-poetry-template.git .
 ```
 
 Using --data-file
